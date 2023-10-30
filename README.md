@@ -1,6 +1,5 @@
 # Hello, I'm Ajay Kumar 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/149348946?s=400&u=81ee18f14bf255b74cd8a6d85725fdac1015e4d6&v=4)
 
 I'm passionate about the world of Data Science, Machine Learning, and Artificial Intelligence. With an academic background in MBA Finance, I bring a unique blend of business acumen and technical skills to solve real-world problems.
 
