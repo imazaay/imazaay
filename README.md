@@ -34,7 +34,7 @@ The world of data is ever-evolving, and I am committed to continuous learning an
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ajay-kumar-7099991a2)
 - Email: [imazaay@gmail.com](mailto:imazaay@gmail.com)
 
 Feel free to connect and reach out if you share similar interests or have exciting projects in mind. Let's collaborate and turn data into knowledge! 🤝
