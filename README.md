@@ -40,7 +40,7 @@ The world of data is ever-evolving, and I am committed to continuous learning an
 
 Feel free to connect and reach out if you share similar interests or have exciting projects in mind. Let's collaborate and turn data into knowledge! 🤝
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/imazaay)
 
 ---
 
